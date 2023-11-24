@@ -27,4 +27,37 @@ router.get("/:id", (req, res) => {
   }
 });
 
+router.post("/new", (req, res) => {
+  const projectsJSON = fs.readFileSync("./data/projects.json");
+  const projects = JSON.parse(projectsJSON);
+
+  const {
+    title,
+    image,
+    description,
+    category,
+    materials,
+    toolsRequired,
+    reference,
+    steps,
+  } = req.body;
+
+  const newProject = {
+    id: uuid4(),
+    title,
+    image,
+    description,
+    category,
+    materials,
+    toolsRequired,
+    reference,
+    steps,
+  };
+  projects.push(newProject);
+
+  //   const projectsString = JSON.stringify(projects);
+  fs.writeFileSync("./data/projects.json", projects);
+  res.send("success: added new project");
+});
+
 module.exports = router;
