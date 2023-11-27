@@ -790,25 +790,6 @@
     ]
   },
   {
-    "id": "f83eff98-fdbe-4c30-ac59-afc771e15e87",
-    "title": "brh",
-    "image": ["/images/planning.jpg"],
-    "description": "afe",
-    "category": "Table",
-    "materials": ["fa"],
-    "toolsRequired": ["fafea"],
-    "cutList": ["eaffae"],
-    "steps": [
-      {
-        "id": "1",
-        "stepNumber": "Step :",
-        "stepTitle": "",
-        "detail": "",
-        "images": "/images/planning.jpg"
-      }
-    ]
-  },
-  {
     "id": "6df7a1fb-9849-4917-958b-e0165cf6ccb5",
     "title": "tester",
     "image": ["/images/upload.jpg"],
