@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const app = express(); //execute express
+const app = express();
 const projectsRoutes = require("./routes/projectsRouter");
 
 app.use(express.static("public")); // images folder

@@ -790,54 +790,47 @@
     ]
   },
   {
-    "id": "58dd5587-0afc-41b4-81bc-cb7c4a44c170",
-    "title": "dvdz",
-    "image": ["/upload.jpg"],
-    "description": "dfs",
+    "id": "f83eff98-fdbe-4c30-ac59-afc771e15e87",
+    "title": "brh",
+    "image": ["/images/planning.jpg"],
+    "description": "afe",
     "category": "Table",
-    "materials": ["ffsfsfsfs"],
-    "toolsRequired": ["fssf"],
-    "cutList": ["sfgff"],
-    "steps": [
-      {
-        "id": "1",
-        "stepNumber": "Step 1:",
-        "stepTitle": "gsffgs",
-        "detail": "dafd",
-        "images": "dafdafd"
-      },
-      {
-        "id": "2",
-        "stepNumber": "Step 2:",
-        "stepTitle": "dfaf",
-        "detail": "dfaad",
-        "images": "dafafd"
-      },
-      {
-        "id": "3",
-        "stepNumber": "Step 3:",
-        "stepTitle": "afd",
-        "detail": "dada",
-        "images": "dafdafd"
-      }
-    ]
-  },
-  {
-    "id": "7abfcc55-37d1-460e-b641-df97152414e2",
-    "title": "dacdaf",
-    "image": ["/upload.jpg"],
-    "description": "dafadd",
-    "category": "Table",
-    "materials": ["ada"],
-    "toolsRequired": ["dada"],
-    "cutList": ["daad"],
+    "materials": ["fa"],
+    "toolsRequired": ["fafea"],
+    "cutList": ["eaffae"],
     "steps": [
       {
         "id": "1",
         "stepNumber": "Step :",
         "stepTitle": "",
         "detail": "",
-        "images": ""
+        "images": "/images/planning.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6df7a1fb-9849-4917-958b-e0165cf6ccb5",
+    "title": "tester",
+    "image": ["/images/upload.jpg"],
+    "description": "test form",
+    "category": "Electronics",
+    "materials": ["this", "that", "them"],
+    "toolsRequired": ["lots", "of tools", "i guess"],
+    "cutList": ["this and that", "and that and this"],
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "fafd",
+        "detail": "dfdaf",
+        "images": "/images/planning.jpg"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "fafdf",
+        "detail": "fddfadfa",
+        "images": "/images/planning.jpg"
       }
     ]
   }
