@@ -27,7 +27,7 @@ router.get("/:id", (req, res) => {
   }
 });
 
-router.post("/new", (req, res) => {
+router.post("/", (req, res) => {
   const projectsJSON = fs.readFileSync("./data/projects.json");
   const projects = JSON.parse(projectsJSON);
 
@@ -38,6 +38,7 @@ router.post("/new", (req, res) => {
     category,
     materials,
     toolsRequired,
+    cutList,
     reference,
     steps,
   } = req.body;
@@ -50,13 +51,14 @@ router.post("/new", (req, res) => {
     category,
     materials,
     toolsRequired,
+    cutList,
     reference,
     steps,
   };
   projects.push(newProject);
 
-  //   const projectsString = JSON.stringify(projects);
-  fs.writeFileSync("./data/projects.json", projects);
+  const projectsString = JSON.stringify(projects);
+  fs.writeFileSync("./data/projects.json", projectsString);
   res.send("success: added new project");
 });
 

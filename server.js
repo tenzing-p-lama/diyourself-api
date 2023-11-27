@@ -6,7 +6,7 @@ const projectsRoutes = require("./routes/projectsRouter");
 app.use(express.static("public")); // images folder
 app.use(express.json());
 
-const port = process.env.PORT || process.argv[2] || 5050;
+const PORT = process.env.PORT || 5050;
 
 //Routes
 app.use(cors());
@@ -17,6 +17,6 @@ app.get("/", (_req, res) => {
 });
 
 //listen to port
-app.listen(port, () => {
-  console.log(`Listening to ${port}`);
+app.listen(PORT, () => {
+  console.log(`Listening to ${PORT}`);
 });

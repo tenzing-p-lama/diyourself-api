@@ -788,5 +788,57 @@
         "images": "/images/Bench__withStorage/Bench__withStorage-Step13.jpeg"
       }
     ]
+  },
+  {
+    "id": "58dd5587-0afc-41b4-81bc-cb7c4a44c170",
+    "title": "dvdz",
+    "image": ["/upload.jpg"],
+    "description": "dfs",
+    "category": "Table",
+    "materials": ["ffsfsfsfs"],
+    "toolsRequired": ["fssf"],
+    "cutList": ["sfgff"],
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "gsffgs",
+        "detail": "dafd",
+        "images": "dafdafd"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "dfaf",
+        "detail": "dfaad",
+        "images": "dafafd"
+      },
+      {
+        "id": "3",
+        "stepNumber": "Step 3:",
+        "stepTitle": "afd",
+        "detail": "dada",
+        "images": "dafdafd"
+      }
+    ]
+  },
+  {
+    "id": "7abfcc55-37d1-460e-b641-df97152414e2",
+    "title": "dacdaf",
+    "image": ["/upload.jpg"],
+    "description": "dafadd",
+    "category": "Table",
+    "materials": ["ada"],
+    "toolsRequired": ["dada"],
+    "cutList": ["daad"],
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step :",
+        "stepTitle": "",
+        "detail": "",
+        "images": ""
+      }
+    ]
   }
 ]
