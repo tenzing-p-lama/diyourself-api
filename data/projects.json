@@ -790,6 +790,425 @@
     ]
   },
   {
+    "id": "8",
+    "title": "Storage Cabinet",
+    "image": ["/images/Cabinet__Storage/Cabinet__Storage-Finish.jpg"],
+    "description": "Build a simple storage cabinet with a drawer and doors with adjustable shelves. This easy-to-build versatile piece of furniture can be used in any room!",
+    "category": "Cabinet",
+    "materials": [
+      "1.5 Sheet Of Plywood , ¾”",
+      ".5 Sheet Of Plywood , ¼”",
+      "1 Board, 2x2 x 8”",
+      "1 Box Of 1 ¼” Pocket Hole Screws",
+      "1 Box Of 2” Pocket Hole Screws",
+      "1 Box Of 2 ½” Pocket Hole Screws",
+      "4 Cabinet Hardware Of Choice",
+      "1 Paint Or Stain In The Color Of Choice",
+      "1 16” Drawer Slides",
+      "2 Inset Frameless Door Hinges (2 Pairs)"
+    ],
+    "toolsRequired": [
+      "Tape Measure",
+      "Square",
+      "Sander",
+      "Drill",
+      "Stapler",
+      "Miter Saw",
+      "Circular Saw"
+    ],
+    "cutList": [
+      "2 ¾” Plywood (Doors) , 20 ¼” X 13 ⅝”",
+      "1¾” Plywood (Drawer Front) , 28 ¼” X 6 ½”",
+      " 1¾” Plywood (Top) , 33” X 19 ½”",
+      "1¾” Plywood (Divider) , 20 ½” X 18”",
+      "4¾” Plywood (Rails) , 28 ½” X 4”",
+      "2¾” Plywood (Sides) , 28 ¾” X 18”",
+      "1¾” Plywood (Bottom) , 30” X 18”",
+      "2¾” Plywood (Shelves) , 13” X 16”",
+      "2¾” Plywood (Drawer Long Side) , 26” X 5”",
+      "2¾” Plywood (Drawer Short Side) , 16” X 5”",
+      "1¾” Plywood (Back Support) , 28 ½” X 4”",
+      "1¼” Plywood (Back) , 29 ½” X 22”",
+      " 1¼” Plywood (Drawer Bottom) (If Not Using Dados) , 27 ½” X 16”",
+      "2 Boards (Legs) , 2x2 x 5” (Long To Short End At 10-Degrees- Parallelogram)",
+      "2 Boards (Long Aprons) , 2x2 x 22” (Short To Short End At 10-Degrees- Trapezoid)",
+      " 2 Boards (Short Aprons) , 2x2 x 9 ½”"
+    ],
+    "reference": "https://learn.kregtool.com/plans/diy-storage-cabinet/",
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "Prepare the boards",
+        "detail": "Make the cuts per the cut list. Review the plans and make pocket holes where needed. Pocket holes in plywood are made with ¾” setting on the pocket hole jig and pocket holes in the 2x2 is made with 1 ½” setting. Apply edge banding to all the edges that will be visible.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step1.jpeg"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "Attach the sides",
+        "detail": "Attach the sides to the bottom using 1 ¼” pocket hole screws.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step2.jpeg"
+      },
+      {
+        "id": "3",
+        "stepNumber": "Step 3:",
+        "stepTitle": "Attach the rails",
+        "detail": "The first set of rails is attached to the top of the cabinet using wood glue and 1 ¼” pocket hole screws. The second set of rails is attached as shown below using pocket hole screws.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step3.jpeg"
+      },
+      {
+        "id": "4",
+        "stepNumber": "Step 4:",
+        "stepTitle": "Attach the divider",
+        "detail": "Measure and mark the exact location of the center divider. Add the divider. Make sure it is square and level prior to attaching with pocket hole screws.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step4.jpeg"
+      },
+      {
+        "id": "5",
+        "stepNumber": "Step 5:",
+        "stepTitle": "Build the drawer box",
+        "detail": "Build the drawer box as shown below. The drawer box can be built two ways - either with the bottom sitting in a dado groove or on the outside. Install the drawer slide and make sure the drawer works before removing it for the next step.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step5.jpeg"
+      },
+      {
+        "id": "6",
+        "stepNumber": "Step 6:",
+        "stepTitle": "Attach the top",
+        "detail": "Make sure that the top is well centered before attaching with pocket hole screws through the sides and countersunk pocket hole screws in the rails.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step6.jpeg"
+      },
+      {
+        "id": "7",
+        "stepNumber": "Step 7:",
+        "stepTitle": "Build the base",
+        "detail": "Build the base using the 2x2 boards as shown.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step7.jpeg"
+      },
+      {
+        "id": "8",
+        "stepNumber": "Step 8:",
+        "stepTitle": "Attach the base",
+        "detail": "Center and attach the base to the bottom of the cabinet frame using countersunk 2” pocket hole screws.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step8.jpeg"
+      },
+      {
+        "id": "9",
+        "stepNumber": "Step 9:",
+        "stepTitle": "Install drawer and door",
+        "detail": "Install the drawer front as well as the doors using the cabinet door mounting jig set to the inset door setting.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step9.jpeg"
+      },
+      {
+        "id": "10",
+        "stepNumber": "Step 10:",
+        "stepTitle": "Add the back",
+        "detail": "In order to anchor the cabinet to the wall, you can add back support. Also, add a backer board to the bottom part of the cabinets using a staple gun.",
+        "images": "/images/Cabinet__Storage/Cabinet__Storage-Step10.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Modern Nightstands",
+    "image": [
+      "/images/Table__Nightstand/Table__Nightstand-Finish1.jpg",
+      "/images/Table__Nightstand/Table__Nightstand-Finish2.jpg",
+      "/images/Table__Nightstand/Table__Nightstand-Finish3.jpg"
+    ],
+    "description": "This modern nightstand has clean architectural lines with a linear look. It has a single drawer and features inset panels on the top, sides, and drawer front. \n This plan will build two complete nightstands. Repeat each of the steps to build two nightstands - Cut list provide measurements for two nightstands.",
+    "category": "Table",
+    "materials": [
+      "7 Boards , 2”X2” X 8’",
+      "1 Sheet Of Plywood , 3/4” X 4’ X 8’",
+      "1 Sheet Of Plywood , 1/4” X 2’ X 4’",
+      "2 12” Drawer Slides (Purchase Ones That Require 0.5” Clearance On Each Sides)",
+      "96 2-1/2” Pocket Hole Screws (See Tool List)",
+      "132 1-1/4” Pocket Hole Screws",
+      "1 Box 1-1/4” Brad Nails",
+      "1 120 And 220 Grit Sandpaper",
+      "Wood Glue"
+    ],
+    "toolsRequired": [
+      "Tape Measure",
+      "Sander",
+      "Drill",
+      "Brad Nailer",
+      "Miter Saw",
+      "Circular Saw"
+    ],
+    "cutList": [
+      "8 Legs , 1.5x1.5x27”",
+      "12 Horizontal Side Spans , 1.5x1.5x13.5”",
+      "12 Horizontal Front/Back Spans , 1.5x1.5x20”",
+      "4 Lower Sides , 3/4” X 10.5x13.5”",
+      "4 Shelf/Tops , 3/4” X 20x13.5”",
+      "4 Drawer Box Front/Backs , 3/4” X 17.5x7.5”",
+      "4 Drawer Box Sides , 3/4” X 12x7.5”",
+      "2 Drawer Fronts , 3/4” X 19.75x10.25”",
+      "2 Drawer Bottoms , 1/4” X 11.875x18.875”",
+      "2 Backs , 1/4” X 11.5x21”"
+    ],
+    "reference": "https://learn.kregtool.com/plans/modern-nightstands/",
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "Build Side Frames",
+        "detail": "Drill pocket holes on each end of the HORIZONTAL SIDE SPANS using the 1-1/2” jig setting. Attach HORIZONTAL SIDE SPANS to legs at the locations shown on the diagram with wood glue and 2-1/2” pocket-hole screws. The pocket holes for the top piece should face downward as indicated on the diagram.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step1.png"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "Attach Side Inserts",
+        "detail": "Drill pocket holes around the sides of the LOWER SIDE pieces as shown on the diagram using the 3/4” jig setting. Attach the LOWER SIDE pieces flush to the inside of the side frames using 1-1/4” pocket hole screws.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step2.png"
+      },
+      {
+        "id": "3",
+        "stepNumber": "Step 3:",
+        "stepTitle": "Attach Horizontal Spans",
+        "detail": "Drill pocket holes on the HORIZONTAL FRONT/BACK SPANS using the 1-1/2” jig setting. Attach in the same location as the SIDE SPANS using wood glue and 2-1/2” pocket-hole screws. The pocket holes for the top piece should face downward as indicated on the diagram.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step3.png"
+      },
+      {
+        "id": "4",
+        "stepNumber": "Step 4:",
+        "stepTitle": "Attach Shelf/Tops",
+        "detail": "Drill pocket holes on the underside of each SHELF/TOP piece, using the 3/4” jig setting, approximately 6” apart around the perimeter. Attach shelf flush with the surrounding spans using 1-1/4” pocket-hole screws. Attach the tops in the same fashion, however, recess the top by 1/2” all the way around.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step4.png"
+      },
+      {
+        "id": "5",
+        "stepNumber": "Step 5:",
+        "stepTitle": "Attach Back",
+        "detail": "Attach the BACK to the nightstand using a brad nailer and 1-1/4” nails around the perimeter of the board.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step5.png"
+      },
+      {
+        "id": "6",
+        "stepNumber": "Step 6:",
+        "stepTitle": "Build Drawer Boxes",
+        "detail": "Drill pocket holes on the DRAWER FRONT/BACKS as shown (note that the pocket holes are on the back side of the back board). Attach the DRAWER BOX SIDES to the DRAWER BOX FRONT/BACKS as shown in the diagram using wood glue and 1-1/4” pocket hole screws. Once the box frame is complete, attach the DRAWER BOTTOM using wood glue and 1-1/4” brad nails.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step6.png"
+      },
+      {
+        "id": "7",
+        "stepNumber": "Step 7:",
+        "stepTitle": "Install Drawer Slides, Box and Drawer Front",
+        "detail": "Install the drawer slides so that they sit back 1.25” from the face edge of the nightstand. This will give a recessed inset panel look to the drawer. Drill two holes in the front of the drawer box about 6” from each side, centered top to bottom. You will use these holes to attach the drawer face from the inside of the box.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step7.png"
+      },
+      {
+        "id": "8",
+        "stepNumber": "Step 8:",
+        "stepTitle": "Install Drawer Face",
+        "detail": "When installing a drawer face, it is a great idea to have some double-sided tape and playing cards on hand. You can space the drawer appropriately in the opening using the playing cards, and the double-sided tape will hold it in place until your ready to attach with screws from the back. When you have it exactly where you want it, use 1-1/4” pocket-hole screws to attach from the inside of the drawer into the drawer face.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step8.jpeg"
+      },
+      {
+        "id": "9",
+        "stepNumber": "Step 9:",
+        "stepTitle": "Finishing",
+        "detail": "Sand with 120 grit sandpaper, followed by 220 grit. Finish as desired with paint or stain.",
+        "images": "/images/Table__Nightstand/Table__Nightstand-Step9.png"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Tilt Out Trash Bin",
+    "image": [
+      "/images/Cabinet__TrashBin/Cabinet__TrashBin-Finish1.jpg",
+      "/images/Cabinet__TrashBin/Cabinet__TrashBin-Finish2.jpg"
+    ],
+    "description": "The perfect DIY project to hide that trash bin in your kitchen!",
+    "category": "Cabinet",
+    "materials": [
+      "1 Oak Plywood , ¾” X 4’ X 8’",
+      "1 Oak Board , ¾” X 2” X 5’",
+      "1 Oak Board , ¾” X 3” X 18’",
+      "1 Oak Board , ¾” X 6” X 2’",
+      "1 Box Of 1 ¼” Kreg Pocket Hole Hardwood Screws",
+      "1 Box Of 1 ¼” Kreg Pocket Hole Softwood Screws",
+      "Wood Glue",
+      "1 80 And 150 Grit Sandpaper",
+      "3 Spray Lacquer",
+      "Wire Wool",
+      "1 Construction Adhesive",
+      "1 Painters Tape",
+      "1 Pack Of Drawer Slides",
+      "1 Box Of 1 ¼” Finish Nails",
+      "1 Box Of 1 ¾” Finish Nails",
+      "1 Box Of 1 ½” Brad Nails",
+      "1 Drawer Slide Inserts For Face Frame Cabinets",
+      "1 Caulking Gun",
+      "1 Wood Stain Of Choice",
+      "1 Staining Rag",
+      "1 Black Piano Hinge 2” X 12”",
+      "1 10” Euro Drawer Slides",
+      "2 Rear Drawer Track Back Plates",
+      "2 Drawer Pulls"
+    ],
+    "toolsRequired": [
+      "Tape Measure",
+      "Sander",
+      "Drill",
+      "Brad Nailer",
+      "Miter Saw",
+      "Circular Saw",
+      "Clamps",
+      "Straight Edge",
+      "Dado Blade",
+      "Table Saw"
+    ],
+    "cutList": [
+      "1 Drawer Bottom , 1’ 4 3/4” X 9 ¾” X ¾”",
+      "1 Drawer Face , 1’ 6 ¼” X 5 ⅛” X ¾”",
+      "2 Drawer Front/Back , 1’ 5 ¼” X 4” X ¾”",
+      "2 Drawer Side , 9” X 4” X ¾”",
+      "2 Face Frame Sides , 2” X 2’ 6” X ¾”",
+      "2 Face Frame Top & Bottom , 1’ 10 ½” X 2” X ¾”",
+      "1 Door Panel Insert , 1’ 3” X 1’ 9 ¼” X ¾”",
+      "2 Door Rail , 1’ 6 ¼” X 2” X ¾”",
+      "2 Door Stile , 2” X 1’ 8 ½” X ¾”",
+      "2 Cabinet Side Panels , 10 ⅞” X 2’ 10 ¾” X ¾”",
+      "1 Cabinet Top Panel , 1’ 9” X 11 ⅝” X ¾”",
+      "1 Cabinet Bottom Panel , 1’ 9” X 10 ⅛” X ¾”",
+      "2 Cabinet Bottom Supports , 1’ 9” X 1 /14” X ¾”",
+      "2 Top Panel , 1’ 10 ½” X 11 ⅝” X ¾”",
+      "1 Top Front Trim , 2’ X 1 ½” X ¾”",
+      "2 Top Side Trim , 1’ ⅜” X 1 ½” X ¾”",
+      "1 Trash Bin Tilt Platform Base , 1’ 6 ¼” X 9 ⅜” X ¾”",
+      "2 Tilt Support Triangles , 6” X 6” X 8 ½”",
+      "2 Tilt Stop , 4” X ¾” X ¾”",
+      "1 Cabinet Back Panel , 1’ 9” X 2’ 10” X ¾”"
+    ],
+    "reference": "https://learn.kregtool.com/plans/tilt-out-trash-bin/",
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "Cut wood",
+        "detail": "Cut plywood according to the cut list in the woodworking plans with a table saw and fine tooth trim blade. Also use the table saw to cut the widths of the oak boards according to the plans. Cut the lengths of the oak boards with a miter saw. Using a trim blade on the table saw helps prevent chipping the oak veneer of the plywood. However, if you don’t have a trim blade for your table saw, you can make the cuts using clamps, a level/straight edge, a circular saw, scrap pieces of wood, and painter’s tape. Apply two layers of painter's tape where you’ll be cutting after you line up the cut on your table saw or circular saw (using clamps and a straight edge.) Next place a scrap board over the top of the painter’s tape. The scrap board will take all the chips and rips leaving the board underneath intact.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step1.jpeg"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "Cut dado for the drawer",
+        "detail": "With the wood pieces cut, it is time to put in the ¼” dado cuts for the bottom of the drawer. Take the one drawer side and one drawer front or back piece and make the dado cuts with a table saw and a dado blade (which is wider than a normal table saw blade) using the measurements in the woodworking plans. If you do not have a dado blade, you’ll have to use a regular table saw blade and run it through multiple times. To do this, you will mark a line using a pencil then make a pass through on the line on the table saw. Next, move the blade a saw blade width at a time until you finish the dado cut at it is ¼” wide. Make sure the drawer bottom is tight by checking a scrap piece of ¼” oak plywood. Be sure not to make the dado cut larger than 1/4”.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step2.jpeg"
+      },
+      {
+        "id": "3",
+        "stepNumber": "Step 3:",
+        "stepTitle": "Cut groove for door panel insert",
+        "detail": "Much like the dado for the bottom of the drawer, cut a groove into the sides of your door rails and stiles for the panel to slide into. Using the table saw just make a couple of passes ⅜” deep into your door rails and stiles until your groove is ¼” wide for your door panel insert.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step3.jpeg"
+      },
+      {
+        "id": "4",
+        "stepNumber": "Step 4:",
+        "stepTitle": "Sand",
+        "detail": "Light sand all cut wood pieces with 80 grit sandpaper and an orbital sander.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step4.jpeg"
+      },
+      {
+        "id": "5",
+        "stepNumber": "Step 5:",
+        "stepTitle": "Drill pocket holes",
+        "detail": "Drill pocket holes as shown in the woodworking plans. We used the Kreg 720 Pro. The hardwood veneer on plywood is very thin so drill slowly to avoid damaging the veneer.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step5.jpeg"
+      },
+      {
+        "id": "6",
+        "stepNumber": "Step 6:",
+        "stepTitle": "Assemble the drawer",
+        "detail": "Start by putting together the drawer. Take the back and two sides of the drawer and glue and nail them together with the brad nailer and 1 ¼” brad nails. Slide in the drawer bottom into the dado channel and add the front drawer piece. Nail together, clamp, and wipe any excess glue with a slightly damp shop rag. Set the drawer aside to dry.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step6.jpeg"
+      },
+      {
+        "id": "7",
+        "stepNumber": "Step 7:",
+        "stepTitle": "Assemble the face frame",
+        "detail": "Start by taking one face frame side piece and one face frame top/bottom piece and clamp them together. Screw in your 1 ¼” hardwood Kreg screws enough to make a mark on the piece of wood but don’t screw them in tight. When working with Oak it has a tendency to split because it is such a hardwood. To prevent this, predrill some pilot holes for our pocket hole screws. Take a drill and drill bit and predrill a hole at the angle the screw will go into the wood. Be careful not to go all the way through your frame. This will ensure any splits don’t happen as you are making more room for the screw so only the threads on the screw are grabbing the wood. Continue assembling the face frame until all four pieces are attached with pocket hole screws.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step7.jpeg"
+      },
+      {
+        "id": "8",
+        "stepNumber": "Step 8:",
+        "stepTitle": "Assemble the door",
+        "detail": "Take the door pieces and dry fit the parts together. Next, clamp the pieces together and make marks, and pre-drill just like the face frame. Once pre-drilled, add a little bit of wood glue into the groove and start assembling the door. Put all pieces of the door together and clamp together and clamp down to Kreg clamp table to make sure it is flat and square. Then screw in pocket hole screws to attach. Wipe any excess glue with a slightly damp shop rag. Allow the door to dry.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step8.jpeg"
+      },
+      {
+        "id": "9",
+        "stepNumber": "Step 9:",
+        "stepTitle": "Build the cabinet",
+        "detail": "Take your cabinet side panels, cabinet bottom panel, cabinet top panel, and cabinet bottom supports. Assemble them all together with the pre-drilled pocket holes. Use what clamps you can to get the cabinet assembled. Be sure to add the two bottom supports underneath the cabinet bottom. Use the 1 ¼” Softwood/plywood Kreg screws here.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step9.jpeg"
+      },
+      {
+        "id": "10",
+        "stepNumber": "Step 10:",
+        "stepTitle": "Build the top",
+        "detail": "Dry fit the top front and side trim pieces to the top panel and clamp and make marks through the pocket holes (which should be pre-drilled into the bottom of the top panel) to create pilot holes. Once the trim pieces are all pre-drilled, use the 1 ¼” Kreg hardwood screws to assemble this entire top together.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step10.jpeg"
+      },
+      {
+        "id": "11",
+        "stepNumber": "Step 11:",
+        "stepTitle": "Attach the face frame and top to the cabinet",
+        "detail": "Start by attaching the assembled face frame with 1 ¼” Kreg hardwood screws through pre-drilled pocket holes on the cabinet side panels. Again use the marking and pre-drill method to ensure no splits happen in the face frame. Once your face frame is attached to the cabinet, you can attach the top to the cabinet. Put some construction adhesive on the bottom side of the top and place the top onto the cabinet. Press firmly all over the top to get a good bond with your construction adhesive. Next, take your finish nailer and 1 ¼” finish nails and nail them up into your top from inside of the box. Do this at a slight angle so none of the finish nails go through your top.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step11.jpeg"
+      },
+      {
+        "id": "12",
+        "stepNumber": "Step 12:",
+        "stepTitle": "Assemble the trash bin tilt platform",
+        "detail": "Attach the tilt support triangles to the trash bin tilt platform base using wood glue and 1 ¾” finish nails. Then attach the bin tilt platform to the assembled door using the pre-drilled pocket holes. Be sure to use the same marking and pre-drilling method as before to prevent splitting. Also, we recommend adding high-quality wood glue here to make this connection extra strong as it will be the reason your trash can stops at a tilt. Wipe away any excess wood glue with a slightly damp shop rag and allow that all to dry before moving on.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step12.jpeg"
+      },
+      {
+        "id": "13",
+        "stepNumber": "Step 13:",
+        "stepTitle": "Sand and stain",
+        "detail": "Using the 80 grit on your random orbital sander start sanding and shaping all of your parts. Be sure to let the sander do the work and don’t press too hard to avoid scratches on the wood. Once shaped, follow up with 150 grit for a smoother and more even stain. Wipe away all sanding dust and apply the wood stain of your choice. We used Minwax Dark Walnut stain. Wait at least 8 hours before applying a finish.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step13.jpeg"
+      },
+      {
+        "id": "14",
+        "stepNumber": "Step 14:",
+        "stepTitle": "Apply your finish",
+        "detail": "Spray the first coat of lacquer onto your parts. Then follow up at least 3 times to ensure a good layer of protection that also helps with cleaning the piece later. After an hour and is dry to the touch, lightly rub #0000 wire wool (steel wool) over everything moving in the same direction as the wood grain. This will get rid of any imperfections and give a glass smooth finish without removing those layers of finish.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step14.jpeg"
+      },
+      {
+        "id": "15",
+        "stepNumber": "Step 15:",
+        "stepTitle": "Add hinges and tilt stops",
+        "detail": "Get your door & tilt platform and put it into place inside the cabinet. Next, attach the piano hinge to the bottom edge of the cabinet and door. Also, grab the trash can that you will be using and put it into place. Tilt open the door to your desired angle to make sure you have plenty of room to remove the trash can liners once full. The was roughly 30 degrees for us, which is shown in the measurements in the woodworking plans included. Put something in front of the door to rest it on at the right angle, we used a barstool. Once at the proper angle, attach the tilt stops to the tilt support triangles as shown using your finish nailer, wood glue, and 1 ¾” finish nails. Make sure everything works as desired.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step15.jpeg"
+      },
+      {
+        "id": "16",
+        "stepNumber": "Step 16:",
+        "stepTitle": "Add the back panel",
+        "detail": "Now that everything works properly you can now add the back panel to the cabinet with 1 ¼” softwood/ plywood Kreg screws.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step16.jpeg"
+      },
+      {
+        "id": "17",
+        "stepNumber": "Step 17:",
+        "stepTitle": "Add drawer slides, drawer face & hardware",
+        "detail": "Clamp together the drawer and the drawer face and add the drawer handle to attach the drawer face to the drawer. Using a hardware template or jig for this can be helpful. Next, follow the instructions for the drawer slides that you chose. Depending on what you are able to find, you may need to cut the drawer slides down to get them to fit inside the cabinet. We did this with a Dremel. Then, simply slide the drawer into place. Lastly, attach a matching handle to the top of the door to tilt the trash bin out.",
+        "images": "/images/Cabinet__TrashBin/Cabinet__TrashBin-Step17.jpeg"
+      }
+    ]
+  },
+  {
     "id": "6df7a1fb-9849-4917-958b-e0165cf6ccb5",
     "title": "tester",
     "image": ["/images/upload.jpg"],
@@ -812,6 +1231,32 @@
         "stepTitle": "fafdf",
         "detail": "fddfadfa",
         "images": "/images/planning.jpg"
+      }
+    ]
+  },
+  {
+    "id": "46e55ece-7ae1-4a55-9762-a78fb37e74a3",
+    "title": "bench test",
+    "image": ["/images/upload.jpg"],
+    "description": "afafad",
+    "category": "Bench",
+    "materials": ["fadfdaadf", "dagdga"],
+    "toolsRequired": ["agddgada", "gadgad"],
+    "cutList": ["gadadg", "gaddga"],
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "dfadag",
+        "detail": "adgad",
+        "images": "/images/upload.jpg"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "fafead",
+        "detail": "fdafadgf",
+        "images": "/images/upload.jpg"
       }
     ]
   }
