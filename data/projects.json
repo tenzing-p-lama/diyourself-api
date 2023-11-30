@@ -27,6 +27,7 @@
       "Kreg pocket hole jig",
       "nail gun (optional)"
     ],
+    "cutList": [],
     "reference": "https://www.woodshopdiaries.com/how-to-build-a-modern-dresser/",
     "steps": [
       {
@@ -1209,6 +1210,127 @@
     ]
   },
   {
+    "id": "11",
+    "title": "Mobile Workbench with Drawer",
+    "image": [
+      "images/Bench__Mobile/Bench__Mobile-Finish1.jpg",
+      "images/Bench__Mobile/Bench__Mobile-Finish2.jpg",
+      "images/Bench__Mobile/Bench__Mobile-Finish3.jpg"
+    ],
+    "description": "Add this beginner-friendly DIY workbench to your workshop with this weekend project. It is a great sturdy starter workbench with a drawer and open shelves for storage and organization and can be easily customized.",
+    "category": "Bench",
+    "materials": [
+      "72x4 Boards , 3 1/2” X 1 1/2” , 96”",
+      "1Plywood , 3/4” , 4' X 8'",
+      "1Plywood , 1/4” , 2' X 4'",
+      "Drawer Slides",
+      "Drawer Pull",
+      "4 Drop Down Casters"
+    ],
+    "toolsRequired": [
+      "Tape Measure",
+      "Drill",
+      "Miter Saw",
+      "Circular Saw",
+      "Table Saw",
+      "Jigsaw",
+      "Hardwood Bench Top with Dog Holes"
+    ],
+    "cutList": [
+      " 4 Legs, 3 1/2” X 1 1/2” X 37”",
+      " 7 Short Aprons, 3 1/2” X 1 1/2” X 21”",
+      "4 Long Aprons, 3 1/2” X 1 1/2” X 41”",
+      "2 Front Aprons, 3 1/2” X 1 1/2” X 12”",
+      "1 Top Support, 3 1/2” X 1 1/2” X 21”",
+      "2 Middle Supports 3 1/2” X 1 1/2” X 28 1/4”",
+      "1 Bottom Shelf 3/4” 28” X 44” Plywood",
+      "1 Middle Shelf 3/4” 28” X 15” Plywood",
+      " 2 Drawer Short Side 3/4” X 22” X 5 1/2” Plywood",
+      " 2 Drawer Short Side 3/4” X 9 1/2” X 5 1/2” Plywood",
+      " 1 Drawer Bottom 1/4” X 22” X 11” Plywood"
+    ],
+    "reference": "https://learn.kregtool.com/plans/mobile-workbench-with-drawer/",
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "Build the legs",
+        "detail": "Build the two sides of the leg frame by attaching the short aprons to the legs. Note that one side has 2 short aprons and the other has 4 short aprons. The extra short aprons will help support the shelves and the drawer slides. Use 2 1/2” pocket hole screws and wood glue.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step1.jpeg"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "Attach the long aprons",
+        "detail": "Attach the long aprons to the bottom of the leg frames using 2 1/2” pocket hole screws and wood glue. Once attached to one side, attach to the other side. This will make the support for the bottom shelf",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step2.jpeg"
+      },
+      {
+        "id": "3",
+        "stepNumber": "Step 3:",
+        "stepTitle": "Add bottom shelf",
+        "detail": "Cut 3.5” x 1.5” notches in plywood using a jigsaw on all corners to accommodate the legs and attach to the frame using 2” countersunk screws or trim head screws",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step3.jpeg"
+      },
+      {
+        "id": "4",
+        "stepNumber": "Step 4:",
+        "stepTitle": "Build the center divider",
+        "detail": "Build the center divider as shown in the diagram. The boards are all joined using 2 1/2” pocket hole screws and wood glue.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step4.jpeg"
+      },
+      {
+        "id": "5",
+        "stepNumber": "Step 5:",
+        "stepTitle": "Add center divider to workbench",
+        "detail": "Attach the center divider to the workbench using 2 1/2” pocket hole screws and wood glue. It is important to keep everything square as you attach.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step5.jpeg"
+      },
+      {
+        "id": "6",
+        "stepNumber": "Step 6:",
+        "stepTitle": "Add small shelf",
+        "detail": "Cut out the 3.5” x 1.5” notches in plywood using a jigsaw on all corners to accommodate the legs and attach to the frame using 2” countersunk screws or trim head screws",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step6.jpeg"
+      },
+      {
+        "id": "7",
+        "stepNumber": "Step 7:",
+        "stepTitle": "Add front support",
+        "detail": "Using 2 1/2” pocket hole screws and wood glue, attach the support in the front as shown in the diagram.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step7.jpeg"
+      },
+      {
+        "id": "8",
+        "stepNumber": "Step 8:",
+        "stepTitle": "Attach top apron and supports",
+        "detail": "Attach the top apron and the support brace using 2 1/2” pocket hole screws and wood glue.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step8.jpeg"
+      },
+      {
+        "id": "9",
+        "stepNumber": "Step 9:",
+        "stepTitle": "Build the Drawer",
+        "detail": "Build the drawer using 1 1/4” pocket hole screws. The drawer can be made longer or shorter as needed.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step9.jpeg"
+      },
+      {
+        "id": "10",
+        "stepNumber": "Step 10:",
+        "stepTitle": "Attach the drawer front",
+        "detail": "Attach the drawer front ensuring that there is a 1/8” gap on all sides.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step10.jpeg"
+      },
+      {
+        "id": "11",
+        "stepNumber": "Step 11:",
+        "stepTitle": "Attach the Workbench top",
+        "detail": "Finally attach the workbench top to the top and support aprons using countersunk 2” pocket hole screws. Ensure that there is a 2” overhang on all sides.",
+        "images": "images/Bench__Mobile/Bench__Mobile-Step11.jpeg"
+      }
+    ]
+  },
+  {
     "id": "6df7a1fb-9849-4917-958b-e0165cf6ccb5",
     "title": "tester",
     "image": ["/images/upload.jpg"],
@@ -1231,32 +1353,6 @@
         "stepTitle": "fafdf",
         "detail": "fddfadfa",
         "images": "/images/planning.jpg"
-      }
-    ]
-  },
-  {
-    "id": "46e55ece-7ae1-4a55-9762-a78fb37e74a3",
-    "title": "bench test",
-    "image": ["/images/upload.jpg"],
-    "description": "afafad",
-    "category": "Bench",
-    "materials": ["fadfdaadf", "dagdga"],
-    "toolsRequired": ["agddgada", "gadgad"],
-    "cutList": ["gadadg", "gaddga"],
-    "steps": [
-      {
-        "id": "1",
-        "stepNumber": "Step 1:",
-        "stepTitle": "dfadag",
-        "detail": "adgad",
-        "images": "/images/upload.jpg"
-      },
-      {
-        "id": "2",
-        "stepNumber": "Step 2:",
-        "stepTitle": "fafead",
-        "detail": "fdafadgf",
-        "images": "/images/upload.jpg"
       }
     ]
   }
