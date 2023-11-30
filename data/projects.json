@@ -1213,9 +1213,9 @@
     "id": "11",
     "title": "Mobile Workbench with Drawer",
     "image": [
-      "images/Bench__Mobile/Bench__Mobile-Finish1.jpg",
-      "images/Bench__Mobile/Bench__Mobile-Finish2.jpg",
-      "images/Bench__Mobile/Bench__Mobile-Finish3.jpg"
+      "/images/Bench__Mobile/Bench__Mobile-Finish1.jpg",
+      "/images/Bench__Mobile/Bench__Mobile-Finish2.jpg",
+      "/images/Bench__Mobile/Bench__Mobile-Finish3.jpg"
     ],
     "description": "Add this beginner-friendly DIY workbench to your workshop with this weekend project. It is a great sturdy starter workbench with a drawer and open shelves for storage and organization and can be easily customized.",
     "category": "Bench",
@@ -1256,77 +1256,181 @@
         "stepNumber": "Step 1:",
         "stepTitle": "Build the legs",
         "detail": "Build the two sides of the leg frame by attaching the short aprons to the legs. Note that one side has 2 short aprons and the other has 4 short aprons. The extra short aprons will help support the shelves and the drawer slides. Use 2 1/2” pocket hole screws and wood glue.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step1.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step1.jpeg"
       },
       {
         "id": "2",
         "stepNumber": "Step 2:",
         "stepTitle": "Attach the long aprons",
         "detail": "Attach the long aprons to the bottom of the leg frames using 2 1/2” pocket hole screws and wood glue. Once attached to one side, attach to the other side. This will make the support for the bottom shelf",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step2.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step2.jpeg"
       },
       {
         "id": "3",
         "stepNumber": "Step 3:",
         "stepTitle": "Add bottom shelf",
         "detail": "Cut 3.5” x 1.5” notches in plywood using a jigsaw on all corners to accommodate the legs and attach to the frame using 2” countersunk screws or trim head screws",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step3.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step3.jpeg"
       },
       {
         "id": "4",
         "stepNumber": "Step 4:",
         "stepTitle": "Build the center divider",
         "detail": "Build the center divider as shown in the diagram. The boards are all joined using 2 1/2” pocket hole screws and wood glue.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step4.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step4.jpeg"
       },
       {
         "id": "5",
         "stepNumber": "Step 5:",
         "stepTitle": "Add center divider to workbench",
         "detail": "Attach the center divider to the workbench using 2 1/2” pocket hole screws and wood glue. It is important to keep everything square as you attach.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step5.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step5.jpeg"
       },
       {
         "id": "6",
         "stepNumber": "Step 6:",
         "stepTitle": "Add small shelf",
         "detail": "Cut out the 3.5” x 1.5” notches in plywood using a jigsaw on all corners to accommodate the legs and attach to the frame using 2” countersunk screws or trim head screws",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step6.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step6.jpeg"
       },
       {
         "id": "7",
         "stepNumber": "Step 7:",
         "stepTitle": "Add front support",
         "detail": "Using 2 1/2” pocket hole screws and wood glue, attach the support in the front as shown in the diagram.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step7.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step7.jpeg"
       },
       {
         "id": "8",
         "stepNumber": "Step 8:",
         "stepTitle": "Attach top apron and supports",
         "detail": "Attach the top apron and the support brace using 2 1/2” pocket hole screws and wood glue.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step8.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step8.jpeg"
       },
       {
         "id": "9",
         "stepNumber": "Step 9:",
         "stepTitle": "Build the Drawer",
         "detail": "Build the drawer using 1 1/4” pocket hole screws. The drawer can be made longer or shorter as needed.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step9.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step9.jpeg"
       },
       {
         "id": "10",
         "stepNumber": "Step 10:",
         "stepTitle": "Attach the drawer front",
         "detail": "Attach the drawer front ensuring that there is a 1/8” gap on all sides.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step10.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step10.jpeg"
       },
       {
         "id": "11",
         "stepNumber": "Step 11:",
         "stepTitle": "Attach the Workbench top",
         "detail": "Finally attach the workbench top to the top and support aprons using countersunk 2” pocket hole screws. Ensure that there is a 2” overhang on all sides.",
-        "images": "images/Bench__Mobile/Bench__Mobile-Step11.jpeg"
+        "images": "/images/Bench__Mobile/Bench__Mobile-Step11.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Modern Farmhouse Indoor/Outdoor Dining Table",
+    "image": [
+      "/images/Table__FarmhouseDining/Table__FarmhouseDining-Finish1.jpg",
+      "/images/Table__FarmhouseDining/Table__FarmhouseDining-Finish2.jpg",
+      "/images/Table__FarmhouseDining/Table__FarmhouseDining-Finish3.jpg"
+    ],
+    "description": "This rustic and charming indoor/outdoor dining table is a simple weekend build using just a few simple tools and minimum woodworking knowledge. Impress your family and friends when you build this beautiful solid piece of furniture. Choose your lumber to suit the indoor or outdoor space accordingly. The piece shown is made from Western Red Cedar and can seat 8-10 people with a finished size of 84” long x 36” wide x 30” tall.",
+    "category": "Table",
+    "materials": [
+      "3 Boards , 4” X 4” X 8'",
+      "13 Boards , 2” X 4” X 8'",
+      "12 4” Kreg HD Screws",
+      "8 2-1/2” Kreg HD Screws",
+      "8 3” Deck/Wood Screws",
+      "24 2-1/2” Deck/Wood Screws",
+      "1 Waterproof Glue/Adhesive",
+      "1 Sandpaper (Various Grits)"
+    ],
+    "toolsRequired": [
+      "Tape Measure",
+      "Drill",
+      "Sander",
+      "Chisel",
+      "Miter Saw",
+      "Hammer"
+    ],
+    "cutList": [
+      "4 Legs , 3 1/2” X 3 1/2” X 27” (5° PARALLEL Angle On Each End)",
+      "2 Leg Bottom Spans , 3 1/2” X 3 1/2” X 24 13/16” (5° OPPOSING Angles On Each End)",
+      "1 Base Bottom Span , 3 1/2” X 3 1/2” X 61 1/2”",
+      "2 Base Top Spans , 1 1/2” X 3 1/2” X 56”",
+      "2 Leg Top Spans , 1 1/2” X 3 1/2” X 35 1/2”",
+      "2 Base Angled Spans , 1 1/2” X 3 1/2” X 27 1/4” (45° PARALLEL Angles On Each End)",
+      "10 Table Top Boards , 1 1/2” X 3 1/2” X 84”"
+    ],
+    "reference": "https://learn.kregtool.com/plans/modern-farmhouse-indoor-outdoor-dining-table/",
+    "steps": [
+      {
+        "id": "1",
+        "stepNumber": "Step 1:",
+        "stepTitle": "Leg Span",
+        "detail": "On the bottom of the LEG BOTTOM SPANS, drill pocket holes using the XL on the 3-1/2” setting as shown. To cut out the area for the half lap joint, find the center of the top of the board and measure 1-3/4” on either side, to give you a total of 3-1/2”. Then measure down 1-3/4” and 1-3/4” deep to identify the area to chisel out for the half lap (see next step for photo of chiseling).",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step1.png"
+      },
+      {
+        "id": "2",
+        "stepNumber": "Step 2:",
+        "stepTitle": "Chisel Half Lap",
+        "detail": "Here is a photo of the progressive chiseling being completed.",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step2.jpeg"
+      },
+      {
+        "id": "3",
+        "stepNumber": "Step 3:",
+        "stepTitle": "Build Legs",
+        "detail": "Attach the LEGS to the LEG SPANS 5” from the bottom using wood glue and 4” Kreg HD Screws. Be careful to orient the legs so that they are angling inward. Cut a 45° on the LEG TOP SPANS starting about halfway down on the face. This is a decorative element and also to prevent anyone from scraping their leg on the piece. Then attach it to the top of the LEGS as shown with wood glue and four 3” deck screws in each leg.",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step3.png"
+      },
+      {
+        "id": "4",
+        "stepNumber": "Step 4:",
+        "stepTitle": "Half Lap in Base Bottom Span",
+        "detail": "Using a circular saw, progressively cut the area on each end of the BASE BOTTOM SPAN to create a half lap. Alternatively you can use a hammer and chisel. The area should be the full 3-1/2” width of the board and 1-3/4” wide and 1-3/4” deep as shown. Once complete, use the Kreg XL jig on the 1-1/2” setting and drill two holes on each end as shown.",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step4.png"
+      },
+      {
+        "id": "5",
+        "stepNumber": "Step 5:",
+        "stepTitle": "Fit Half Lap Joint",
+        "detail": "Dry fit the half lap joints on each side and make any adjustments if necessary. Keep it tight, but not too tight or the wood might split over time.",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step5.jpeg"
+      },
+      {
+        "id": "6",
+        "stepNumber": "Step 6:",
+        "stepTitle": "Attach Spans",
+        "detail": "Now that you have confirmed it will fit, attach the BASE BOTTOM SPAN using wood glue 2-1/2” Kreg HD screws. Drill pocket holes using the Kreg XL on each end of the BASE TOP SPANS as shown. Attach the BASE TOP SPANS (2 boards) using wood glue and 2-1/2” Kreg HD screws. (Note these two boards meet in the exact center of the LEG TOP SPANS)",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step6.png"
+      },
+      {
+        "id": "7",
+        "stepNumber": "Step 7:",
+        "stepTitle": "Attach Base Angle Spans",
+        "detail": "Measure the halfway mark on the length of the BASE BOTTOM SPAN. Then measure 3-1/2” on each side of that for a total of 7” Then measure half way across the board which should be 1-3/4”. This is the location you will attach the BASE ANGLE SPANS (centering it in the board). Using wood glue and a 2-1/2” deck screw to securely attach to the BASE BOTTOM SPAN as shown. Then attach in the position they land on the under side of the BASE TOP SPANS using wood glue and a 2-1/2” deck screw.",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step7.png"
+      },
+      {
+        "id": "8",
+        "stepNumber": "Step 8:",
+        "stepTitle": "Attach Table Top Boards",
+        "detail": "Attach Table top boards from the underside using 2-1/2” deck screws or 2-1/2” outdoor standard Kreg screws. Do not use glue on this step as the boards will expand and contract a bit each time it gets wet and dries (some cracking will be normal).",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step8.png"
+      },
+      {
+        "id": "9",
+        "stepNumber": "Step 9:",
+        "stepTitle": "Finishing",
+        "detail": "Sand and smooth out any sharp edges. You can choose to leave it natural, stain it, use a penetrating oil or paint it.",
+        "images": "/images/Table__FarmhouseDining/Table__FarmhouseDining-Step9.png"
       }
     ]
   },
