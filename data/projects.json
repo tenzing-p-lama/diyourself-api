@@ -2061,31 +2061,5 @@
         "images": "/images/Dresser__Classic/Dresser__Classic-Finish1.jpg"
       }
     ]
-  },
-  {
-    "id": "6df7a1fb-9849-4917-958b-e0165cf6ccb5",
-    "title": "tester",
-    "image": ["/images/upload.jpg"],
-    "description": "test form",
-    "category": "Electronics",
-    "materials": ["this", "that", "them"],
-    "toolsRequired": ["lots", "of tools", "i guess"],
-    "cutList": ["this and that", "and that and this"],
-    "steps": [
-      {
-        "id": "1",
-        "stepNumber": "Step 1:",
-        "stepTitle": "fafd",
-        "detail": "dfdaf",
-        "images": "/images/planning.jpg"
-      },
-      {
-        "id": "2",
-        "stepNumber": "Step 2:",
-        "stepTitle": "fafdf",
-        "detail": "fddfadfa",
-        "images": "/images/planning.jpg"
-      }
-    ]
   }
 ]
